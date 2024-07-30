@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\wwwroot\\js\\add-image.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\wwwroot\\js\\add-image.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\friend\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\friend\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\friend\\frienddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\friend\\frienddetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\friend\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\friend\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\friend\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\friend\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\friend\\addimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\friend\\addimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\viewmodel\\friendvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\viewmodel\\friendvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\utils\\nullutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\utils\\nullutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\utils\\imageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\utils\\imageutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\models\\imagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\models\\friendmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\models\\friendmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\controllers\\friendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\friandsgallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\friandsgallery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\wwwroot\\css\\images.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\wwwroot\\css\\images.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week5\\friandsgallery\\friandsgallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C9B53D4-3D3A-44D9-8174-F19CDFAC04AA}|FriandsGallery\\FriandsGallery.csproj|solutionrelative:friandsgallery\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FriendVM.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\ViewModel\\FriendVM.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\ViewModel\\FriendVM.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\ViewModel\\FriendVM.cs",
+              "RelativeToolTip": "FriandsGallery\\ViewModel\\FriendVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:42:11.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NullUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Utils\\NullUtils.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Utils\\NullUtils.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Utils\\NullUtils.cs",
+              "RelativeToolTip": "FriandsGallery\\Utils\\NullUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:42:01.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ImageUtils.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Utils\\ImageUtils.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Utils\\ImageUtils.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Utils\\ImageUtils.cs",
+              "RelativeToolTip": "FriandsGallery\\Utils\\ImageUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:41:53.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\AddImage.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Friend\\AddImage.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\AddImage.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Friend\\AddImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T09:17:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Create.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Friend\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Create.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Friend\\Create.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:02:30.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Friend\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Edit.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Friend\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:02:34.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FriendDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\FriendDetails.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Friend\\FriendDetails.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\FriendDetails.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Friend\\FriendDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T10:50:17.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Index.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Friend\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Friend\\Index.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Friend\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T09:24:32.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "add-image.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\wwwroot\\js\\add-image.js",
+              "RelativeDocumentMoniker": "FriandsGallery\\wwwroot\\js\\add-image.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\wwwroot\\js\\add-image.js",
+              "RelativeToolTip": "FriandsGallery\\wwwroot\\js\\add-image.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-29T14:00:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImageModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Models\\ImageModel.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Models\\ImageModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Models\\ImageModel.cs",
+              "RelativeToolTip": "FriandsGallery\\Models\\ImageModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:41:42.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FriendModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Models\\FriendModel.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Models\\FriendModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Models\\FriendModel.cs",
+              "RelativeToolTip": "FriandsGallery\\Models\\FriendModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:41:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FriandsGallery\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:41:21.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FriandsGallery\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T14:40:55.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FriendController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Controllers\\FriendController.cs",
+              "RelativeDocumentMoniker": "FriandsGallery\\Controllers\\FriendController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Controllers\\FriendController.cs",
+              "RelativeToolTip": "FriandsGallery\\Controllers\\FriendController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T09:19:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FriandsGallery\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FriandsGallery\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-29T11:47:14.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "images.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\wwwroot\\css\\images.css",
+              "RelativeDocumentMoniker": "FriandsGallery\\wwwroot\\css\\images.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\wwwroot\\css\\images.css",
+              "RelativeToolTip": "FriandsGallery\\wwwroot\\css\\images.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-29T11:44:06.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FriandsGallery.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\FriandsGallery.csproj",
+              "RelativeDocumentMoniker": "FriandsGallery\\FriandsGallery.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week5\\FriandsGallery\\FriandsGallery\\FriandsGallery.csproj",
+              "RelativeToolTip": "FriandsGallery\\FriandsGallery.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-29T09:19:03.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
